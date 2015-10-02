@@ -1,0 +1,7 @@
+DEPENDENCIES
+  jekyll_blog_morrisey
+    path: .
+    metadata: true
+
+GRAPH
+  jekyll_blog_morrisey (0.1.0)
